@@ -14,7 +14,6 @@ Install Surge
 npm install -g surge
 cd todo-list
 npm run build
-
 ```
 ## Running the tests
 ## Deployment
