@@ -5,11 +5,16 @@ functions deployed with Surge.
 ## Getting Started
 Install React JS
 ```
-<script = https://code.jquery.com/jquery-3.3.1.min.js>
+npx create-react-app todo-list
+cd todo-list
+npm start
 ```
 Install Surge
 ```
-https://getbootstrap.com/docs/3.3/getting-started/
+npm install -g surge
+cd todo-list
+npm run build
+
 ```
 ## Running the tests
 ## Deployment
